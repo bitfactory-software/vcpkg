@@ -9448,6 +9448,10 @@
       "baseline": "2.2.3",
       "port-version": 1
     },
+    "virtual-void": {
+      "baseline": "0.0.12",
+      "port-version": 0
+    },
     "visit-struct": {
       "baseline": "1.1.0",
       "port-version": 0
