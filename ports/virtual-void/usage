@@ -1,0 +1,5 @@
+virtual-void provides a CMake target:
+
+find_package(virtual_void CONFIG REQUIRED)
+target_link_libraries(main PRIVATE virtual_void::virtual_void)
+
